@@ -1,5 +1,7 @@
 ## 👏👏 Hey all!
 
+I'm Pun, a Software Engineer and Open Sourcerer from Bangkok, Thailand.
+
 You'll probably find me tinkering with random side projects, 
 exploring new tech rabbit holes, or contributing to the open-source community.
 
