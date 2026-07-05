@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👏👏 Hey all!
 
-<!--
-**punpun-cutecat/punpun-cutecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You'll probably find me tinkering with random side projects, 
+exploring new tech rabbit holes, or contributing to the open-source community.
 
-Here are some ideas to get you started:
+Nice to meet you! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 Tech stacks & Tools
+
+- Language: TypeScript, JavaScript, Go, Python, C#
+- Web Frameworks: SvelteKit, Next.js
+- Backend Frameworks: Hono, ElysiaJS, Express.js
+- Databases & Cache : PostgreSQL, MySQL, SQLite, MongoDB, Redis, Drizzle ORM, Prisma ORM
+- Communication : RESTful, GraphQL, tRPC, gRPC, WS, MQTT, RabbitMQ, NATS (nats.io)
+- Tools : Git, CI/CD, Docker, K8s, Swagger
+- Cloud & Edge : AWS, GCP, Cloudflare, Vercel
